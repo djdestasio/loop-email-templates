@@ -1,0 +1,183 @@
+<mjml>
+  <mj-head>
+    <mj-title>The Superstar Vulnerability</mj-title>
+    <!-- Montserrat Font Import from Style Guide -->
+    <mj-font
+      name="Montserrat"
+      href="https://www.google.com/search?q=https://fonts.googleapis.com/css2%3Ffamily%3DMontserrat:wght%40400%3B600%3B800%26display%3Dswap"
+    />
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#242424" line-height="1.6" />
+      <mj-section background-color="#ffffff" padding="0" />
+      <mj-button
+        background-color="#d72323"
+        color="#ffffff"
+        font-size="14px"
+        font-weight="600"
+        text-transform="uppercase"
+        inner-padding="18px 36px"
+        border-radius="0px"
+      />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .logo-white { color: #efefef; } .logo-red { color: #d72323; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#efefef">
+    <!-- Header / Logo Section -->
+    <mj-section background-color="#000000" padding="20px 0px">
+      <mj-column>
+        <mj-image
+          src="https://us-west-2.graphassets.com/cm9jgdu600q7l07n2379r6hbk/cmlbdmue5at8407n1kass3l6d"
+          width="300px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Image Section -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="img/hero.png"
+          alt="A superstar basketball player being a ball hog, symbolizing the concept of the 'superstar vulnerability' in business and resilience."
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Welcome Content Section -->
+    <mj-section padding="20px 40px 20px 40px">
+      <mj-column>
+        <mj-text
+          font-size="28px"
+          font-weight="800"
+          line-height="1.2"
+          text-transform="uppercase"
+          padding-bottom="20px"
+          color="#d72323"
+        >
+          The Superstar Vulnerability
+        </mj-text>
+        <mj-text> Hi {firstName}, </mj-text>
+        <mj-text>
+          In elite organizations, excellence is often driven by "Superstars" who
+          keep the machine running at a 1% level.
+        </mj-text>
+        <mj-text>
+          The risk? <strong>Performance can mask fragility</strong>. If your
+          success relies on specific individuals always being "on," your
+          structure is vulnerable.
+        </mj-text>
+        <mj-text>
+          The objective now is to translate individual expertise into
+          Institutional Instinct. We want a system that maintains excellence
+          regardless of who is in the seat.
+        </mj-text>
+        <mj-text>
+          Let's turn your momentum into a legacy. Click below to schedule a
+          45-minute strategy discussion.
+        </mj-text>
+        <mj-text>Talk Soon,</mj-text>
+        <mj-text>
+          Dom DeStasio <br />
+          <em>Co-Founder &amp; CEO, ForceBuilders</em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Call to Action -->
+    <mj-section padding="0 40px 50px 40px">
+      <mj-column>
+        <mj-button
+          href="https://forcebuilders.link/strategy-session"
+          align="center"
+        >
+          SCHEDULE NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Highlight / Feature Section -->
+    <mj-section padding="0 40px 40px 40px">
+      <mj-column
+        border-left="6px solid #d72323"
+        background-color="#efefef"
+        padding="30px"
+      >
+        <mj-text font-size="14px" padding="0">
+          Not ready to schedule a call?
+          <a
+            href="https://forcebuilders.link/webinar"
+            style="color: #d72323; font-weight: 600"
+            >Check out our upcoming webinar.</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#000000" padding="40px 40px">
+      <mj-column>
+        <!-- Logo Mark -->
+        <mj-image
+          src="https://us-west-2.graphassets.com/cm9jgdu600q7l07n2379r6hbk/cmlbefs8vbg9t07n1rm8n9t3o"
+          width="40px"
+        />
+        <mj-text
+          color="#efefef"
+          font-size="11px"
+          align="center"
+          padding-bottom="20px"
+        >
+          ForceBuilders, LLC <br />
+          1675 Route 228 #1054 <br />
+          Cranberry Township, PA 16066 <br />
+          (412) 212-3210
+        </mj-text>
+        <mj-text align="center" font-size="11px" padding-bottom="30px">
+          <a
+            href="https://forcebuilders.link/linkedin-forcebuilders"
+            style="color: #d72323; text-decoration: none; font-weight: 600"
+          >
+            <img
+              src="https://us-west-2.graphassets.com/cm9jgdu600q7l07n2379r6hbk/cmlbmqf05mdam07n1mzud6tx0"
+              style="width: 15px"
+            />
+          </a>
+          &nbsp;&bull;&nbsp;
+          <a
+            href="https://forcebuilders.link/forcebuilders-insta"
+            style="color: #d72323; text-decoration: none; font-weight: 600"
+          >
+            <img
+              src="https://us-west-2.graphassets.com/cm9jgdu600q7l07n2379r6hbk/cmlbmqex1lnjt07myo2vlh3gj"
+              style="width: 15px"
+            />
+          </a>
+          &nbsp;&bull;&nbsp;
+          <a href="https://forcebuilders.com" style="text-decoration: none">
+            <img
+              src="https://us-west-2.graphassets.com/cm9jgdu600q7l07n2379r6hbk/cmlbmqeqgmd9w07n164nd78u8"
+              style="width: 15px"
+            />
+          </a>
+          &nbsp;&bull;&nbsp;
+          <a href="https://forcebuilders.link/linktree">
+            <img
+              src="https://us-west-2.graphassets.com/cm9jgdu600q7l07n2379r6hbk/cmlbmqet7mdaf07n18jwpl0gs"
+              style="width: 15px"
+            />
+          </a>
+        </mj-text>
+        <mj-text color="#efefef" font-size="10px" align="center">
+          &copy; 2026 ForceBuilders. All rights reserved.<br />
+          <a
+            href="{unsubscribe_link}"
+            style="color: #efefef; text-decoration: underline"
+            >Unsubscribe</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
